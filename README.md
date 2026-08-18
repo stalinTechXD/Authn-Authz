@@ -53,6 +53,9 @@ token is rejected.
   server-side. Mitigate with short lifetimes (`Jwt:ExpiryMinutes`), refresh tokens,
   or a revocation deny-list.
 
+  <img width="1194" height="1482" alt="image" src="https://github.com/user-attachments/assets/0b08723e-b239-485e-b3a3-2be49d6a0321" />
+
+
 ## Try it
 
 Use `Authn&Authz.http`:
